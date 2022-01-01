@@ -1,3 +1,7 @@
+/* BUBBLE SORT ALGORITHM */
+
+     //CODE//
+
 #include<stdio.h>
 #include<conio.h>
 
