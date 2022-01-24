@@ -17,6 +17,6 @@ for(i=0;i<6;i++){
 		max = ary[i];
 		}
 	}
-printf("Greatest element of array = %d",ary[i]);
+printf("Greatest element of array = %d",max);
 getch();
 }
